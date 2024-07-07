@@ -1,0 +1,15 @@
+/Users/anpilogovaulia/Desktop/lesson0202/task4/obj/Debug/net8.0/task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anpilogovaulia/Desktop/lesson0202/task4/obj/Debug/net8.0/task4.AssemblyInfoInputs.cache
+/Users/anpilogovaulia/Desktop/lesson0202/task4/obj/Debug/net8.0/task4.AssemblyInfo.cs
+/Users/anpilogovaulia/Desktop/lesson0202/task4/obj/Debug/net8.0/task4.csproj.CoreCompileInputs.cache
+/Users/anpilogovaulia/Desktop/lesson0202/task4/obj/Debug/net8.0/task4.sourcelink.json
+/Users/anpilogovaulia/Desktop/lesson0202/task4/bin/Debug/net8.0/task4
+/Users/anpilogovaulia/Desktop/lesson0202/task4/bin/Debug/net8.0/task4.deps.json
+/Users/anpilogovaulia/Desktop/lesson0202/task4/bin/Debug/net8.0/task4.runtimeconfig.json
+/Users/anpilogovaulia/Desktop/lesson0202/task4/bin/Debug/net8.0/task4.dll
+/Users/anpilogovaulia/Desktop/lesson0202/task4/bin/Debug/net8.0/task4.pdb
+/Users/anpilogovaulia/Desktop/lesson0202/task4/obj/Debug/net8.0/task4.dll
+/Users/anpilogovaulia/Desktop/lesson0202/task4/obj/Debug/net8.0/refint/task4.dll
+/Users/anpilogovaulia/Desktop/lesson0202/task4/obj/Debug/net8.0/task4.pdb
+/Users/anpilogovaulia/Desktop/lesson0202/task4/obj/Debug/net8.0/task4.genruntimeconfig.cache
+/Users/anpilogovaulia/Desktop/lesson0202/task4/obj/Debug/net8.0/ref/task4.dll
