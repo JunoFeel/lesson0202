@@ -16,15 +16,28 @@
 // }
 // Console.WriteLine(max);
 
-int n = 5;
+// int n = 5;
+// int[] array = { 2, 4, 7, 3, 9 };
+// int max = array[0];
+
+// for (int i = 0; i<n; i = i + 1)
+// {
+//     if (array[i] > max)
+//     {
+//         max = array[i];
+//     }
+// }
+// Console.WriteLine(max);
+
+
 int[] array = { 2, 4, 7, 3, 9 };
 int max = array[0];
 
-for (int i = 0; i<n; i = i + 1)
+foreach (int e in array)
 {
-    if (array[i] > max)
+    if (e > max)
     {
-        max = array[i];
+        max = e;
     }
 }
 Console.WriteLine(max);
